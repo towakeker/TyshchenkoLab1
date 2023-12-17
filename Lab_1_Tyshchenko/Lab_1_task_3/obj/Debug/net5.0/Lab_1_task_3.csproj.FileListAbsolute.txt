@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\bin\Debug\net5.0\Lab_1_task_3.exe
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\bin\Debug\net5.0\Lab_1_task_3.deps.json
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\bin\Debug\net5.0\Lab_1_task_3.runtimeconfig.json
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\bin\Debug\net5.0\Lab_1_task_3.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\bin\Debug\net5.0\Lab_1_task_3.dll
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\bin\Debug\net5.0\ref\Lab_1_task_3.dll
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\bin\Debug\net5.0\Lab_1_task_3.pdb
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\obj\Debug\net5.0\Lab_1_task_3.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\obj\Debug\net5.0\Lab_1_task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\obj\Debug\net5.0\Lab_1_task_3.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\obj\Debug\net5.0\Lab_1_task_3.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\obj\Debug\net5.0\Lab_1_task_3.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\obj\Debug\net5.0\Lab_1_task_3.dll
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\obj\Debug\net5.0\ref\Lab_1_task_3.dll
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\obj\Debug\net5.0\Lab_1_task_3.pdb
+C:\Users\User\RiderProjects\Lab_1_Tyshchenko\Lab_1_task_3\obj\Debug\net5.0\Lab_1_task_3.genruntimeconfig.cache
